@@ -1,0 +1,12 @@
+h1 {
+    color: #AB3428; text-align: center;
+font-size: x-large; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; background-color: #131B23; width: fit-content;
+}
+h2 {
+    text-align:left; font-size: medium; background-color:#FAA916; width="400" height="600";
+
+}
+h4 {font-family: Impact Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: small; background-color: #218380}
+body {background-color: #71A9F7}
+.words{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;font-size: small; background-color: #218380; width: fit-content;}
